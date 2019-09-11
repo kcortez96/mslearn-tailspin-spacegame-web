@@ -54,3 +54,4 @@ steps:
 - template: templates/build.yml
   parameters:
     buildConfiguration: 'Release'
+    
